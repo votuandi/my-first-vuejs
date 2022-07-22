@@ -1,0 +1,180 @@
+[
+    {
+        "id": "ao_01",
+        "title": "Đồ đá bóng",
+        "brand": "Adidas",
+        "originPrice": 180000,
+        "saleOff": 0.2,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "100% cotton",
+            "Thay đổi màu sắc tùy ý",
+            "Thêm bớt họa tiết logo không giới hạn",
+            "In tên số riêng từng thành viên trong đội",
+            "Gửi mẫu thiết kế riêng của Quý khách"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_01_01",
+                "title": "Áo đấu MU",
+                "stock": 7
+            },
+            {
+                "id": "ao_01_02",
+                "title": "Áo đấu Chelsea",
+                "stock": 20
+            },
+            {
+                "id": "ao_01_03",
+                "title": "Áo đấu Liverpool",
+                "stock": 0
+            }
+        ]
+    },
+    {
+        "id": "ao_02",
+        "title": "Quần Áo Tenis",
+        "brand": "Nike",
+        "originPrice": 400000,
+        "saleOff": 0.3,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "100% cotton",
+            "Nhiều màu sắc lựa chọn",
+            "Tặng 1 bóng tenis",
+            "Bảo hành 7 ngày"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_02_01",
+                "title": "Áo tenis nam",
+                "stock": 11
+            },
+            {
+                "id": "ao_02_02",
+                "title": "Áo tenis nữ",
+                "stock": 2
+            }
+        ]
+    },
+    {
+        "id": "ao_03",
+        "title": "Áo thể thao 3 lỗ",
+        "brand": "No Brand",
+        "originPrice": 110000,
+        "saleOff": 0.45,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "Màu sắc đa dạng",
+            "Chất liệu nhẹ, mát và bền chắc",
+            "Được sản xuất 100% tại Mỹ"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_01_01",
+                "title": "Áo đấu MU",
+                "stock": 7
+            },
+            {
+                "id": "ao_01_02",
+                "title": "Áo đấu Chelsea",
+                "stock": 20
+            },
+            {
+                "id": "ao_01_03",
+                "title": "Áo đấu Liverpool",
+                "stock": 0
+            }
+        ]
+    },
+    {
+        "id": "ao_04",
+        "title": "Áo thể thao 3 lỗ",
+        "brand": "No Brand",
+        "originPrice": 110000,
+        "saleOff": 0.45,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "Màu sắc đa dạng",
+            "Chất liệu nhẹ, mát và bền chắc",
+            "Được sản xuất 100% tại Mỹ"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_01_01",
+                "title": "Áo đấu MU",
+                "stock": 7
+            },
+            {
+                "id": "ao_01_02",
+                "title": "Áo đấu Chelsea",
+                "stock": 20
+            },
+            {
+                "id": "ao_01_03",
+                "title": "Áo đấu Liverpool",
+                "stock": 0
+            }
+        ]
+    },
+    {
+        "id": "ao_05",
+        "title": "Áo thể thao 3 lỗ",
+        "brand": "No Brand",
+        "originPrice": 110000,
+        "saleOff": 0.45,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "Màu sắc đa dạng",
+            "Chất liệu nhẹ, mát và bền chắc",
+            "Được sản xuất 100% tại Mỹ"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_01_01",
+                "title": "Áo đấu MU",
+                "stock": 7
+            },
+            {
+                "id": "ao_01_02",
+                "title": "Áo đấu Chelsea",
+                "stock": 20
+            },
+            {
+                "id": "ao_01_03",
+                "title": "Áo đấu Liverpool",
+                "stock": 0
+            }
+        ]
+    },
+    {
+        "id": "ao_06",
+        "title": "Áo thể thao 3 lỗ",
+        "brand": "No Brand",
+        "originPrice": 110000,
+        "saleOff": 0.45,
+        "defaultSubProduct": 0,
+        "sumary": [
+            "Màu sắc đa dạng",
+            "Chất liệu nhẹ, mát và bền chắc",
+            "Được sản xuất 100% tại Mỹ"
+        ],
+        "subProducts": [
+            {
+                "id": "ao_01_01",
+                "title": "Áo đấu MU",
+                "stock": 7
+            },
+            {
+                "id": "ao_01_02",
+                "title": "Áo đấu Chelsea",
+                "stock": 20
+            },
+            {
+                "id": "ao_01_03",
+                "title": "Áo đấu Liverpool",
+                "stock": 0
+            }
+        ]
+    }
+]
